@@ -30,17 +30,9 @@ html {
 
 .banner-content {
   overflow: hidden;
-}
-
-@media only screen and (min-width: 60em) {
-
-  .banner-content {
-    position: absolute;
-    color: #fff;
-    top: 0;
-    left: 0;
-    margin: 0;
-    
-  }
-
+  margin: 0;
+  position: absolute;
+  color: #fff;
+  bottom: 1.5rem;
+  left: 0;
 }
